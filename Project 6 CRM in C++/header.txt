@@ -1,0 +1,6 @@
+// CRM in C++ <filename.cpp>
+// EE 312 Project 7 submission by
+// <Your Name Here>
+// <Your EID>
+// Slip days used: <0>
+// Summer 2022

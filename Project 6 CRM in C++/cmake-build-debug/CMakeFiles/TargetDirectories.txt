@@ -1,0 +1,3 @@
+C:/Users/anesw/OneDrive/Desktop/312 VS Code Projects/Project 7 CRM in C++/Project7_starter_files/cmake-build-debug/CMakeFiles/Project7_starter_files.dir
+C:/Users/anesw/OneDrive/Desktop/312 VS Code Projects/Project 7 CRM in C++/Project7_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anesw/OneDrive/Desktop/312 VS Code Projects/Project 7 CRM in C++/Project7_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
