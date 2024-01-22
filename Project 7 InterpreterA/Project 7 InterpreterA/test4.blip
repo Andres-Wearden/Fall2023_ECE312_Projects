@@ -1,0 +1,13 @@
+var x 42
+text "output x -- " output x text \n
+var y + 42 + 10 5
+text "output y -- "
+output ~ y text \n // prints -57
+text "output x + y "
+output + ~ x y
+text \n
+set x + x 1
+set y + y 5
+text "after increment, output x -- " output y text \n
+text "output ~ x -- " output ~ x text \n
+text "Hello World\n"

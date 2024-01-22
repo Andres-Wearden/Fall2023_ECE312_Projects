@@ -1,0 +1,3 @@
+C:/Users/anesw/Downloads/Proj08/Project 7 InterpreterA/cmake-build-debug/CMakeFiles/Project8_starter_files.dir
+C:/Users/anesw/Downloads/Proj08/Project 7 InterpreterA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anesw/Downloads/Proj08/Project 7 InterpreterA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

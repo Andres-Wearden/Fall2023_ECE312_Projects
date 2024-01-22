@@ -1,0 +1,57 @@
+var x + * 57 76 + 65 49
+text "output x -- "
+output x text "\n"
+var y 8
+text "output y -- "
+output y text "\n"
+var z + y x
+text "output z -- "
+output z text "\n"
+set y + z x
+text "output y -- "
+output y text "\n"
+var w 46
+text "output w -- "
+output w text "\n"
+set w z
+text "output w -- "
+output w text "\n"
+var x 0 text "\n" //
+set p y text "\n" // should give error message
+var v 5 // set v to (5 + 3) * (x – 1)
+set v
+* + 5 3 - v 1
+text "output v -- "
+output v text "\n"
+output 2345 text "\n"
+output *
+       + 5 3
+       - v 1 text "\n"
+output v text "\n"
+var var1 5
+var var2 10
+var var3 9
+var var4 3
+var firstName + / var1 var2 * var3 var4
+text "output firstName -- "
+output firstName text "\n"
+// set x 0
+set v 32
+set w 46
+set z 4454
+output x text "\n"
+output v text "\n"
+output w text "\n"
+output z text "\n"
+var secondName + / z w * v x
+text "output secondName -- "
+output secondName text "\n"
+var bruh + 5 * 2 - 8 4
+var hi + bruh 3
+text "output bruh -- "
+output bruh text "\n"
+text "output hi -- "
+output hi text "\n"
+text x text \n
+
+text "Hello World\n"

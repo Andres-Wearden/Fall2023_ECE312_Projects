@@ -1,0 +1,32 @@
+var x + - 30 50 || / * 20 5 10 0
+output x text " "
+text "var x && 5 56 -- x = 1" text \n
+text \n
+var y 5
+var z 10
+set y - y z
+output y
+text \n
+text \n
+text \n
+set x 6
+set y / x z
+output y
+text \n
+text \n
+text \n
+
+var s 57
+set s + 47 ~ x
+output s
+
+text \n
+text \n
+text \n
+
+output x text \n
+output s text \n
+output + ~ x + * 4 + ! s x 3
+
+text \n
+text "Hello World\n"
