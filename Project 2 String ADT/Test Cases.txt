@@ -1,0 +1,109 @@
+
+line 34 changed: char c_str1[20] = "\nhello\n";
+
+Starting stage 2 tests
+output:
+hello
+ world
+hello
+hello
+ world
+hello
+hello
+ world
+
+hello
+ wor
+
+hello
+ wor hello
+hell
+
+line 39 changed: strcat(c_str1, "");
+output:
+Starting stage 2 tests
+hello
+hello hello
+hello hello world
+hello world
+hello world hello hello
+
+
+line 39 changed: strcat(c_str1, "\nworld\n");
+output:
+Starting stage 2 tests
+hello
+world
+
+hello hello
+world
+
+hello hello
+world
+ w
+hello
+world
+hello
+world hello hello
+
+line 39 changed: strcat(c_str1, "\n");
+
+Starting stage 2 tests
+hello
+
+hello hello
+
+hello hello
+ world
+hello
+ worl
+hello
+ worl hello hello
+
+line 39 changed: strcat(c_str1, " d fkg 3 5 2ds");
+
+Starting stage 2 tests
+hello d fkg 3 5 2ds
+hello hello d fkg 3
+hello hello d fkg 3
+hello d fkg
+hello d fkg hello hello
+
+line 52 changed: utstrcpy(ut_str2, "");
+output:
+Starting stage 2 tests
+hello world
+hello hello world
+hello hello world wo
+
+ hello hello world wo
+
+
+line 52 changed: utstrcpy(ut_str2, "\nhello\n");
+output:
+Starting stage 2 tests
+hello world
+hello hello world
+hello hello world wo
+
+ hello hello world wo
+
+
+line 52 changed: utstrcpy(ut_str2, "\n");
+output:
+Starting stage 2 tests
+hello world
+hello hello world
+hello hello world wo
+
+ hello hello world wo
+
+
+line 52 changed: utstrcpy(ut_str2, " d fkg 3 5 2ds");
+output:
+Starting stage 2 tests
+hello world
+hello hello world
+hello hello world wo
+ d fkg 3 5
+ d fkg 3 5  hello hello
