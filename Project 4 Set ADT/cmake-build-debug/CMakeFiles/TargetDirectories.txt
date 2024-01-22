@@ -1,0 +1,3 @@
+C:/Users/anesw/OneDrive/Desktop/312 VS Code Projects/Project 5/Project 5/Project5_starter_files/cmake-build-debug/CMakeFiles/Project5_starter_files.dir
+C:/Users/anesw/OneDrive/Desktop/312 VS Code Projects/Project 5/Project 5/Project5_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anesw/OneDrive/Desktop/312 VS Code Projects/Project 5/Project 5/Project5_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
