@@ -1,0 +1,41 @@
+Inventory Bottles 100
+Inventory Rattles 100
+Inventory Diapers 100
+
+Purchase Aardvark Bottles 0
+Purchase Abandon Rattles 0
+Purchase Abase Diapers 0
+
+Summarize
+
+Purchase Abjure Bottles -2
+Purchase Ablaze Rattles -222222220
+Purchase Able Diapers -111111111
+
+Summarize
+
+Purchase Abnegate Bottles 100
+Purchase Abolish Rattles 100
+Purchase BlueEyesWhite Diapers 100
+
+Summarize
+
+Quit
+
+/** test6 Results should be: **/
+There are 100 Bottles 100 Diapers and 100 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 100 Bottles 100 Diapers and 100 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 0 Bottles 0 Diapers and 1 Rattles in inventory
+we have had a total of 3 different customers
+Craig has purchased the most Bottles (100)
+Sue has purchased the most Diapers (100)
+Billy has purchased the most Rattles (99)
+/********* end of test 6 *************/
